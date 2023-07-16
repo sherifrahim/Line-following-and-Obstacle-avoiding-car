@@ -1,4 +1,3 @@
 # Line-following-and-Obstacle-avoiding-car
 
-This was my final year project for Engineering
-This prototype car is a type of autonomous vehicle/robot designed to navigate a predefined path while following a line on the ground and avoiding obstacles in its path
+This was our final year project for Engineering. The prototype car we developed is an autonomous vehicle/robot designed to navigate a predefined path while following a line on the ground and avoiding obstacles along the way. We found the majority of the code resources on Git and various online platforms. As usual, we took one of those code references and customized it to meet our specific project requirements. It's an Arduino-based project.
